@@ -113,15 +113,8 @@ Main.java
 
 ## 📸 Output
 
-_Add screenshots of your application here._
+<img width="575" height="132" alt="image" src="https://github.com/user-attachments/assets/abff4e83-e8b2-4cd9-a7fe-90fb225a4ae7" />
 
-Example:
-
-```
-images/output.png
-```
-
----
 
 ## 👨‍💻 Author
 
