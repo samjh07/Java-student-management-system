@@ -103,13 +103,16 @@ public class Student {
 
     @Override //replacing the toString() method that already exists in the Object class.
     public String toString() {
-        return "Student [id=" + id + ", name=" + name + ", age=" + age + ", gender=" + gender + ", department="
-                + department + ", semester=" + semester + ", email=" + email + ", phoneNumber=" + phoneNumber
-                + ", cgpa=" + cgpa + ", getId()=" + getId() + ", getName()=" + getName() + ", getAge()=" + getAge()
-                + ", getGender()=" + getGender() + ", getDepartment()=" + getDepartment() + ", getSemester()="
-                + getSemester() + ", getEmail()=" + getEmail() + ", getPhoneNumber()=" + getPhoneNumber()
-                + ", getCgpa()=" + getCgpa() + ", getClass()=" + getClass() + ", hashCode()=" + hashCode()
-                + ", toString()=" + super.toString() + "]";
-    }
+    return "Student [id=" + id +
+            ", name=" + name +
+            ", age=" + age +
+            ", gender=" + gender +
+            ", department=" + department +
+            ", semester=" + semester +
+            ", email=" + email +
+            ", phoneNumber=" + phoneNumber +
+            ", cgpa=" + cgpa + "]";
+        }
+    
 
 }
